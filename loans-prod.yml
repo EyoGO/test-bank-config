@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+loans:
+  message: "Welcome to bank loans related local prod APIs "
+  contactDetails:
+    name: "Jane Doe - Product Owner"
+    email: "jdoe@eyogo.com"
+  onCallSupport:
+    - (452) 456-9999
+    - (546) 764-9998

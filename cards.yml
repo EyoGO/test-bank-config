@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+cards:
+  message: "Welcome to bank cards related DEFAULE APIs "
+  contactDetails:
+    name: "Sandra Harald - DEFAULT"
+    email: "sandra@eyogo.com"
+  onCallSupport:
+    - (617) 432-23546
+    - (936) 564-84565

@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+accounts:
+  message: "Welcome to EyoGO accounts related local QA APIs"
+  contactDetails:
+    name: "John Pork - QA Lead"
+    email: "john.pork@eyogo.com"
+  onCallSupport:
+    - (666) 111-9876
+    - (666) 111-9875

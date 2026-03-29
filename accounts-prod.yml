@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+accounts:
+  message: "Welcome to EyoGO accounts related local prod APIs"
+  contactDetails:
+    name: "Albert Einstein - Product Owner"
+    email: "aeinstein@eyogo.com"
+  onCallSupport:
+    - (777) 888-9999
+    - (777) 888-9998

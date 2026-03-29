@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+loans:
+  message: "Welcome to bank loans related local QA APIs "
+  contactDetails:
+    name: "John Pork - QA Lead"
+    email: "john.pork@eyogo.com"
+  onCallSupport:
+    - (452) 456-1111
+    - (546) 764-1112
