@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "Welcome to EyoGO accounts related local prod APIs"
+  message: "Welcome to EyoGO accounts related local webhook APIs"
   contactDetails:
     name: "Albert Einstein - Product Owner"
     email: "{cipher}666d0553786df7795e1d784636e4f7ace503ca618046ee5e19e6a0662fa6920dfa707f0f3b75013b1776dadda6a4420b"
